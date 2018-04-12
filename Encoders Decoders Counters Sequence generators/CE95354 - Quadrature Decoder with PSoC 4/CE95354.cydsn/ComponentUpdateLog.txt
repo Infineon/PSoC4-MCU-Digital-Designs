@@ -1,0 +1,13 @@
+Last Modified Date & Time: 03/05/2018 18:12:20
+
+CE95354: CE95354.cydwr
+	cy_boot [v4.11] to [v5.70]
+
+CE95354: TopDesign.cysch
+	LED_GREEN [v2.5] to [v2.20]
+	phiA_In [v2.5] to [v2.20]
+	phiA_Out [v2.5] to [v2.20]
+	phiB_In [v2.5] to [v2.20]
+	QuadDec [v1.10] to [v2.10]
+
+

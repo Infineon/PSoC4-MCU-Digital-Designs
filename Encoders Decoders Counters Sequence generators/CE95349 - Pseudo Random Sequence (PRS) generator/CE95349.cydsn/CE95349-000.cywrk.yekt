@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CE95349-000\CE95349">
+<ExpandedNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\TopDesign</v>
+<v>CE95349-000\CE95349\CE95349.cydwr</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Pins</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Analog</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Clocks</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Interrupts</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\DMA</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\System</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Directives</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Flash Security</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\EEPROM</v>
+<v>CE95349-000\CE95349\Header Files</v>
+<v>CE95349-000\CE95349\Header Files\device.h</v>
+<v>CE95349-000\CE95349\Source Files</v>
+<v>CE95349-000\CE95349\Source Files\main.c</v>
+<v>CE95349-000\CE95349\CE95349.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\TopDesign</v>
+<v>CE95349-000\CE95349\CE95349.cydwr</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Pins</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Analog</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Clocks</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Interrupts</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\DMA</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\System</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Directives</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\Flash Security</v>
+<v>CE95349-000\CE95349\CE95349.cydwr\EEPROM</v>
+<v>CE95349-000\CE95349\Header Files</v>
+<v>CE95349-000\CE95349\Header Files\device.h</v>
+<v>CE95349-000\CE95349\Source Files</v>
+<v>CE95349-000\CE95349\Source Files\main.c</v>
+<v>CE95349-000\CE95349\CE95349.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\TopDesign</v>
+<v>CE95349-000\CE95349\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\TopDesign</v>
+<v>CE95349-000\CE95349\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\CE95349.gpdsc</v>
+<v>CE95349-000\CE95349\CE95349.rpt</v>
+<v>CE95349-000\CE95349\CE95349_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\CE95349.rpt</v>
+<v>CE95349-000\CE95349\CE95349_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\PSoC 3 Architecture TRM</v>
+<v>CE95349-000\CE95349\CY8C38 Family Datasheet</v>
+<v>CE95349-000\CE95349\System Reference Guides</v>
+<v>CE95349-000\CE95349\System Reference Guides\cy_boot_v5_70</v>
+<v>CE95349-000\CE95349\CharLCD_v2_20.pdf</v>
+<v>CE95349-000\CE95349\cy_pins_v2_20.pdf</v>
+<v>CE95349-000\CE95349\CyControlReg_v1_80</v>
+<v>CE95349-000\CE95349\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>CE95349-000\CE95349\OneTerminal</v>
+<v>CE95349-000\CE95349\OneTerminal\OneTerminal.pdf</v>
+<v>CE95349-000\CE95349\PRS_v2_40</v>
+<v>CE95349-000\CE95349\PRS_v2_40\PRS_v2_40.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CE95349-000</v>
+<v>CE95349-000\CE95349</v>
+<v>CE95349-000\CE95349\PSoC 3 Architecture TRM</v>
+<v>CE95349-000\CE95349\CY8C38 Family Datasheet</v>
+<v>CE95349-000\CE95349\System Reference Guides</v>
+<v>CE95349-000\CE95349\System Reference Guides\cy_boot_v5_70</v>
+<v>CE95349-000\CE95349\CharLCD_v2_20.pdf</v>
+<v>CE95349-000\CE95349\cy_pins_v2_20.pdf</v>
+<v>CE95349-000\CE95349\CyControlReg_v1_80</v>
+<v>CE95349-000\CE95349\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>CE95349-000\CE95349\OneTerminal</v>
+<v>CE95349-000\CE95349\OneTerminal\OneTerminal.pdf</v>
+<v>CE95349-000\CE95349\PRS_v2_40</v>
+<v>CE95349-000\CE95349\PRS_v2_40\PRS_v2_40.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\CE95349.cydwr" />
+<name v=".\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="947, 486" SelectedTabbedMdiWindow="47592aaf-e3b1-45a6-bf3b-968483ae0722"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="9895dbee-ae6b-4131-87ca-2f0473e7554b" /><DocumentWindow Key="C:\Users\yekt\OneDrive - Cypress Semiconductor\PSoC 4 GitHub\GitHub_PSOC_4\Digital Designs\Encoders Decoders Counters Sequence genertors\CE95349 - Pseudo Random Sequence (PRS) generator\CE95349.cydsn\CE95349.cydwr" Guid="f0a1a8ca-abc2-4af8-8f63-9e71657b1e21" /><DocumentWindow Key="C:\Users\yekt\OneDrive - Cypress Semiconductor\PSoC 4 GitHub\GitHub_PSOC_4\Digital Designs\Encoders Decoders Counters Sequence genertors\CE95349 - Pseudo Random Sequence (PRS) generator\CE95349.cydsn\TopDesign\TopDesign.cysch" Guid="47592aaf-e3b1-45a6-bf3b-968483ae0722" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

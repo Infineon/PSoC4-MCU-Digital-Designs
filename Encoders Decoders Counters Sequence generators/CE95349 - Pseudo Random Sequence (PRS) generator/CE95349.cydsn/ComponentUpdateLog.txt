@@ -1,0 +1,12 @@
+Last Modified Date & Time: 03/27/2018 12:41:48
+
+CE95349: CE95349.cydwr
+	cy_boot [v4.11] to [v5.70]
+
+CE95349: TopDesign.cysch
+	LCD [v2.0] to [v2.20]
+	Pin_outs [v2.5] to [v2.20]
+	Clock_Gen [v1.70] to [v1.80]
+	Reset_Gen [v1.70] to [v1.80]
+
+
